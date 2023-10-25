@@ -1,7 +1,7 @@
 
 # Heart Disease Prediction
 
-![Heart Disease]([https://images.pexels.com/photos/357678/pexels-photo-357678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](https://www.pexels.com/photo/man-people-woman-office-8460229/))
+![Heart Disease]([https://images.pexels.com/photos/357678/pexels-photo-357678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940](https://www.pexels.com/photo/man-people-woman-office-8460229/)
 
 ## Introduction
 
