@@ -103,9 +103,7 @@ This notebook explored the prediction of heart disease using machine learning mo
 Please refer to the Jupyter Notebook for detailed code and visualizations.
 
 ### Author
-[Your Name]
-
+Oluwamayowa Adeoni
 ### References
 - Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
-- Icon Source: [Pexels](https://www.pexels.com/photo/people-woman-girl-man-357678/)
 
